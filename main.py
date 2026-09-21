@@ -7,7 +7,7 @@ points = 5
 startig_score = 0
 score = startig_score
 # TODO: Print a welcome message introducing your program.
-print("Welcome, today you will be taking a quiz to see how well you know your blck history, but not just any black history, Black legal history!\n There are 6 questions, you can earn up to a total of 30 points. When you finish the lats question, you will automatically recieve your quiz grade back.\n\n")
+print("Welcome, today you will be taking a quiz to see how well you know your black history, but not just any black history, Black legal history!\n There are 6 questions, you can earn up to a total of 30 points. When you finish the last question, you will automatically recieve your quiz grade back.\n\n")
 # TODO: Write your questions and conditional logic here.
 # Question 1
 print("1. Which 1896 Supreme Court decision famously established the 'separate but equal' doctrine, providing legal justification for Jim Crow laws for over half a century? \n1.Plessy V. Ferguson\n2.Dred Scott V. Sandford\n3.Cumming V. Richmond County Board of Education\n4.Civil Rights Cases of 1883\n")
