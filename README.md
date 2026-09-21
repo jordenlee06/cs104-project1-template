@@ -100,4 +100,4 @@ How well do you know your black history? Law Edition!
 2. Run `python3 main.py` or `python main.py`
 
 ## Demo Video
-[DELETE AND REPLACE ME: link to your 5-minute explanation video]
+(https://youtu.be/6wedOapcCHk)
